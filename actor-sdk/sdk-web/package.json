@@ -62,7 +62,7 @@
     "flexboxgrid": "6.3.0",
     "flux": "2.1.1",
     "immutable": "3.7.6",
-    "intl": "1.1.0",
+    "intl": "1.2.5",
     "js-emoji": "github:actorapp/js-emoji#develop",
     "jsonlylightbox": "github:actorapp/jsOnlyLightbox#develop",
     "keymirror": "0.1.1",
