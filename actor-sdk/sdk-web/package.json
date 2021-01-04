@@ -81,7 +81,7 @@
     "react-modal": "0.6.1",
     "react-router": "2.0.0",
     "react-scroll": "github:actorapp/react-scroll#develop",
-    "react-visibility-sensor": "3.0.0",
+    "react-visibility-sensor": "3.14.0",
     "simple-scrollbar": "github:actorapp/simple-scrollbar"
   },
   "devDependencies": {
